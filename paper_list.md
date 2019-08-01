@@ -27,3 +27,19 @@ https://arxiv.org/abs/1706.02677
 -   常数warmup和渐变（线性）warmup
 -   多机多卡的bn如何计算，bn对于优化问题的影响，什么时候需要同步bn什么时候不需要
 -   SGD的动量纠正
+
+### 7.31
+
+deep image matting
+
+http://openaccess.thecvf.com/content_cvpr_2017/papers/Xu_Deep_Image_Matting_CVPR_2017_paper.pdf
+
+A Rotation and a Translation Suffice: Fooling CNNs with Simple Transformations
+
+http://openaccess.thecvf.com/content_cvpr_2017/papers/Xu_Deep_Image_Matting_CVPR_2017_paper.pdf
+
+### 8.1
+
+CARAFE
+
+https://arxiv.org/pdf/1905.02188.pdf
